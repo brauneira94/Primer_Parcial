@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1539044026 source:d:\neira\parcial\neira.braulio.1g\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"neira.h"
+
+1539042713 d:\neira\parcial\neira.braulio.1g\clientes.h
+
+1539041771 d:\neira\parcial\neira.braulio.1g\neira.h
+
+1539040880 source:d:\neira\parcial\neira.braulio.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"neira.h"
+	"clientes.h"
+
+1539041771 source:d:\neira\parcial\neira.braulio.1g\neira.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"neira.h"
+
